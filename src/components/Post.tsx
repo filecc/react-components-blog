@@ -7,7 +7,7 @@ export default function Post() {
           src="https://placeholder.co/600x400"
           alt="placeholder"
         />
-        <article className="rounded-b-xl bg-white px-4 py-6">
+        <article className="rounded-b-xl bg-white px-4  py-6">
           <h2 className="text-xl font-bold">Titolo del post</h2>
           <p className="mb-4 pt-4 text-base font-light leading-relaxed">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae illo
